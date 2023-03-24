@@ -7,9 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lzr6o" alt="lzr6o" /></a> </p>
 
+- 🔭 I’m currently working on [laiOffer](https://github.com/lzr6o/laiOffer)
+
 - 🌱 I’m currently learning **React**
 
+- 👯 I’m looking to collaborate on [laiOffer](https://github.com/lzr6o/laiOffer)
+
+- 🤝 I’m looking for help with [laiOffer](https://github.com/lzr6o/laiOffer)
+
+- 💬 Ask me about **life in China**
+
 - 📫 How to reach me **zr6oli@gmail.com**
+
+- ⚡ Fun fact **i eat a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
